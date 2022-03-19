@@ -6,7 +6,7 @@
 Summary:	Safe, consistent, and easy exception handling
 Name:		ghc-%{pkgname}
 Version:	0.1.7.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/safe-exceptions
